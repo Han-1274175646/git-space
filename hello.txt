@@ -1,6 +1,6 @@
 hello!zhengzehan!hello git!第一次添加数据
 hello!zhengzehan!hello git!分支测试之修改master分支的内容
-hello!zhengzehan!hello git!
+hello!zhengzehan!hello git!测试合并分支
 hello!zhengzehan!hello git!
 hello!zhengzehan!hello git!
 hello!zhengzehan!hello git!
