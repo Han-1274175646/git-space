@@ -3,11 +3,8 @@ hello!zhengzehan!hello git!分支测试之修改master分支的内容
 hello!zhengzehan!hello git!测试合并分支
 hello!zhengzehan!hello git!
 hello!zhengzehan!hello git!
-hello!zhengzehan!hello git!
-hello!zhengzehan!hello git!
-hello!zhengzehan!hello git!
-hello!zhengzehan!hello git!
-hello!zhengzehan!hello git!
-hello!zhengzehan!hello git!
+
 hello!zhengzehan!hello git!测试远程库pull
 拉取代码
+推送代码
+
